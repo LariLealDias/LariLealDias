@@ -29,12 +29,13 @@
 <br>
 <div>
   <h4>Redes sociais:</h4>
-  <a href="https://www.linkedin.com/in/larissa-leal-dias-408455157/">
-    <img width="50px" src="https://github.com/LariLealDias/LariLealDias/assets/108475403/7986c343-a420-4c6a-99dd-8f4d76828002"> 
-  </a>
-  <a href="https://medium.com/@larileal6">
-    <img width="50px" src="https://github.com/LariLealDias/LariLealDias/assets/108475403/1355e447-0535-492f-84d9-387aa04c3248"> 
-  </a>
+ <img src="https://img.shields.io/badge/Dev-Larissa%20Leal-blueviolet">
+      <a href="https://medium.com/@larileal6">
+        <img src="https://img.shields.io/badge/Medium-100000?&logo=medium&logoColor=white">
+      </a>
+      <a href="https://www.linkedin.com/in/larissa-leal-dias-408455157/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white">
+      </a>
 </div>
 
 
