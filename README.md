@@ -21,8 +21,8 @@
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/LariLealDias"> 
-  <img height="208em" src="https://github-readme-stats.vercel.app/api?username=LariLealDias&show_icons=true&theme=radical">  
-  <img height="208em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariLealDias&layout=compact&theme=radical">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LariLealDias&show_icons=true&theme=radical">  
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariLealDias&layout=compact&theme=radical">
 </div>
     
 <br>
