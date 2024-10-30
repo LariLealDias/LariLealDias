@@ -2,8 +2,9 @@
 <h2>🇧​​​​​🇪​​​​​🇲​​​​​ 🇻​​​​​🇮​​​​​🇳​​​​​🇩​​​​​🇴​​​​​(a) 🇦​​​​​🇴​​​​​ 🇲​​​​​🇪​​​​​🇺​​​​​ 🇵​​​​​🇪​​​​​🇷​​​​​🇫​​​​​🇮​​​​​🇱​​​​​ 👩‍💻</h2>
 
 - Conheça meu portfólio, <a href="https://portifolio-six-umber.vercel.app/">Clique aqui </a>
-- Atualmente trabalho como desenvolvedora fullstack na Imã Tech
+- Atualmente trabalho como desenvolvedora fullstack na MXM Sistemas
 - Foco em backend
+- Já fui monitora de bootcamp
 <br>
 <br>
 
